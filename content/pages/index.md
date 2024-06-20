@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-a
-    backgroundSize: full
+    backgroundSize: inset
     title: 'Hi, I''m Andrew Hovious.'
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
