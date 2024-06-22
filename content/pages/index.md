@@ -14,7 +14,7 @@ sections:
     colors: colors-a
     backgroundSize: inset
     title: 'Hi, I''m Andrew Hovious.'
-    subtitle: Heres my por
+    subtitle: Welcome to Hovious Technologies.
     styles:
       self:
         height: auto
