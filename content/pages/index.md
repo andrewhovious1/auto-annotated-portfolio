@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-b
     backgroundSize: inset
     title: WElcome To hovious Technologies
     subtitle: You have reached my dedicated portfolio.
