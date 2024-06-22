@@ -10,7 +10,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
+  - elementId: jumbotron
     colors: colors-e
     backgroundSize: inset
     title: Hovious(dot)Tech
