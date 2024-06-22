@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: inset
-    title: 'Hi, I''m Andrew Hovious.'
+    title: WElcome To hovious Technologies
     subtitle: Welcome to Hovious Technologies.
     styles:
       self:
