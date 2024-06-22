@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/featured-Image4.jpg
   backgroundSize: cover
-  backgroundPosition: bottom
+  backgroundPosition: center
   backgroundRepeat: repeat-x
   opacity: 75
 sections:
