@@ -36,6 +36,7 @@ sections:
       title:
         textAlign: center
         fontStyle: italic
+        textDecoration: underline
       subtitle:
         textAlign: right
       text:
