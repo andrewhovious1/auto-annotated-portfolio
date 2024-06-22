@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/featured-Image4.jpg
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: repeat-x
+  backgroundRepeat: no-repeat
   opacity: 75
 sections:
   - elementId: ''
