@@ -14,7 +14,7 @@ sections:
     colors: colors-b
     backgroundSize: inset
     title: Hovious(dot)Tech
-    subtitle: You have reached my dedicated portfolio.
+    subtitle: 'Bringing you right to the edge, and back. '
     styles:
       self:
         height: auto
