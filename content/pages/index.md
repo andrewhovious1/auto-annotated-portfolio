@@ -29,7 +29,7 @@ sections:
           - pb-48
           - pl-4
           - pr-7
-        alignItems: center
+        alignItems: flex-end
         justifyContent: center
         flexDirection: row-reverse
       title:
