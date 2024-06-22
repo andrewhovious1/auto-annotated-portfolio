@@ -14,7 +14,7 @@ sections:
     colors: colors-a
     backgroundSize: inset
     title: WElcome To hovious Technologies
-    subtitle: Welcome to Hovious Technologies.
+    subtitle: You have reached my dedicated portfolio.
     styles:
       self:
         height: auto
