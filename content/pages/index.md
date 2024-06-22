@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/featured-Image6.jpg
   backgroundSize: contain
   backgroundPosition: bottom
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat-x
   opacity: 75
 sections:
   - elementId: ''
