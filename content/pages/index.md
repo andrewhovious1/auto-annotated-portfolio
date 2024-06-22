@@ -37,7 +37,7 @@ sections:
         textAlign: center
         fontStyle: italic
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
         textAlign: left
       actions:
