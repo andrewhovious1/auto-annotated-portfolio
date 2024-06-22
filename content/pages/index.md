@@ -5,7 +5,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/featured-Image4.jpg
-  backgroundSize: auto
+  backgroundSize: cover
   backgroundPosition: bottom
   backgroundRepeat: repeat-x
   opacity: 75
