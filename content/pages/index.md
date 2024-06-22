@@ -5,7 +5,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/featured-Image6.jpg
-  backgroundSize: cover
+  backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
