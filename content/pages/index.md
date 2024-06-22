@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-e
     backgroundSize: inset
     title: Hovious(dot)Tech
     subtitle: 'Bringing you right to the edge, and back. '
