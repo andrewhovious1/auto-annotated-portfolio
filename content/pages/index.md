@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-b
     backgroundSize: inset
-    title: Welcome To Hovious Technologies
+    title: Hovious(dot)Tech
     subtitle: You have reached my dedicated portfolio.
     styles:
       self:
